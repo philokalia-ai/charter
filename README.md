@@ -9,3 +9,7 @@ The Philokalia Charter — the constitution of character and values of our model
 - `charter.en.md` / `charter.en.html` — English
 
 Έκδοση 1.0 — 2026 · Ζωντανό κείμενο, υπό συνεχή αναθεώρηση.
+
+## Literature
+
+Επιμελημένος χάρτης ελληνικής ποίησης, πεζογραφίας και τραγουδιού — δες [`literature/`](literature/README.md).
